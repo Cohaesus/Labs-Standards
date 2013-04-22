@@ -42,6 +42,9 @@ A sample README is available in this repository.
 ## Accreditations
 Each contributer should be accredited in the README and applicable parts of the source code, this extends to the use of third party code snippets/libraries, if a project contains code from an external source the author should be mentioned and included in all significant portions of the software, regardless of whether the applicable code is public domain or free from other license restrictions.
 
+## Branching
+Where possible, the concepts provided by git-flow are encouraged, at the very least there should be a development branch and a master branch (Where master contains stable code)
+
 ## Changelog
 * 22/04/2013 - Initial documentation
 
